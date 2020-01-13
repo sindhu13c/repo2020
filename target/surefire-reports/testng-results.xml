@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.testing2020.seleniumtestng.my2020Test" duration-ms="6253" started-at="2020-01-11T00:52:17Z" finished-at="2020-01-11T00:52:23Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="6253" started-at="2020-01-11T00:52:17Z" finished-at="2020-01-11T00:52:23Z">
+      <class name="com.testing2020.seleniumtestng.my2020Test">
+        <test-method status="PASS" signature="Login_SFDC_02()[pri:0, instance:com.testing2020.seleniumtestng.my2020Test@71be98f5]" name="Login_SFDC_02" duration-ms="6237" started-at="2020-01-10T16:52:17Z" finished-at="2020-01-10T16:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_SFDC_02 -->
+      </class> <!-- com.testing2020.seleniumtestng.my2020Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.testing2020.seleniumtestng.my2020Test -->
+</testng-results>
